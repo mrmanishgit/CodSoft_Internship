@@ -16,12 +16,13 @@ The comments explain how the ATM interface works, such as PIN authentication, pr
 The program uses switch statements to handle different user choices.
 
 ![Screenshot 2024-12-30 204458](https://github.com/user-attachments/assets/5259dfa1-a1d7-4109-95b7-76d4caea9968)
+![Screenshot 2024-12-30 204521](https://github.com/user-attachments/assets/f4d04969-33af-4622-9678-c9dad520a447)
 
 4. Currency Converter (Java)
 -------------------------------
    Comments are used to explain the steps of taking user input, performing the conversion, and printing the output.
 The Scanner object is used to get user input and then the conversion is done based on a hardcoded rate.
-![Screenshot 2024-12-30 204521](https://github.com/user-attachments/assets/f4d04969-33af-4622-9678-c9dad520a447)
+![Screenshot 2024-12-30 204554](https://github.com/user-attachments/assets/caf07a0e-438f-48ec-90d0-dc0c783643f3)
 
 General Tips for Commenting in Java:
 Brief and Clear: Use comments to clarify the purpose of code blocks, not to restate the obvious. For example, don't comment every line if the code is self-explanatory.
@@ -38,4 +39,4 @@ Copy code
 public double checkBalance() {
     return balance;
 }
-![Screenshot 2024-12-30 204554](https://github.com/user-attachments/assets/caf07a0e-438f-48ec-90d0-dc0c783643f3)
+
